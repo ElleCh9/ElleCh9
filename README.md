@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @ElleCh9
 - 👀 I’m interested in ...
-- 🌱 <b>ITA:</b>
-- Attualmente sto cercando di migliorare le mie skill con CSS e anche di imparare Javascript.
+- 🌱 I'm learning
+       <b>Front-end:</b>
+      - Improve CSS
+      - Javascript  
+      
+      
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
